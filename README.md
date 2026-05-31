@@ -1,4 +1,4 @@
-# 🌐 Task 1 — Responsive Landing Page
+# Task 1 — Responsive Landing Page
 
 A clean, responsive landing page built using **HTML5** and **CSS3** as part of my internship task.
 
@@ -10,7 +10,7 @@ A clean, responsive landing page built using **HTML5** and **CSS3** as part of m
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * HTML5
 * CSS3 (Flexbox, Grid, Media Queries)
@@ -18,7 +18,7 @@ A clean, responsive landing page built using **HTML5** and **CSS3** as part of m
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Landing-Page/
@@ -30,7 +30,7 @@ Landing-Page/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download the project.
 2. Open the folder in VS Code.
@@ -42,7 +42,7 @@ Landing-Page/
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 The landing page adapts to different screen sizes using CSS Media Queries.
 
@@ -60,7 +60,7 @@ The landing page adapts to different screen sizes using CSS Media Queries.
 
 ---
 
-## 🎨 UI Components
+## UI Components
 
 ### Header
 
@@ -80,7 +80,7 @@ The landing page adapts to different screen sizes using CSS Media Queries.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add Hamburger Menu
 * Smooth Scrolling Navigation
@@ -90,7 +90,7 @@ The landing page adapts to different screen sizes using CSS Media Queries.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Harsh Kevadiya**
 
